@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gleison Antonio Pires da Silva</h1>
+<h1 align="center">Hi 👋, I'm Gleison A. Pires S. </h1>
 <h3 align="center">A passionate Systems Analyst from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=strovertz&label=Profile%20views&color=0e75b6&style=flat" alt="strovertz" /> </p>
@@ -13,4 +13,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=strovertz&show_icons=true&locale=en&layout=compact" alt="strovertz" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=strovertz&show_icons=true&locale=en" alt="strovertz" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=strovertz&show_icons=true&locale=en" alt="strovertz" /></p>
