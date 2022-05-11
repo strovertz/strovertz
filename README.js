@@ -1,4 +1,3 @@
-### Hi there 👋
 
 const GleisonPires = {
   Name: "Gleison A. Pires da Silva",
