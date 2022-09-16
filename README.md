@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gleison A. Pires S. </h1>
 <h3 align="center">A passionate Systems Analyst from Brazil</h3>
 
-<p>variables "AboutMe" { {<br>
+<p>variables "AboutMe" { <br>
   type        = map(string)
   description = "About me" 
   default     = {
