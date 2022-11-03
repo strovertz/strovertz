@@ -25,4 +25,4 @@ default     = { <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=strovertz&show_icons=true&locale=en&layout=compact" alt="strovertz" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=strovertz&show_icons=true&locale=en" alt="strovertz" width="50" height="40"/></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=strovertz&show_icons=true&locale=en" alt="strovertz" width="500" height="400"/></p>
