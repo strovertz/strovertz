@@ -45,4 +45,3 @@
 <img src="https://raw.githubusercontent.com/strovertz/strovertz/blob/output/snake.svg" alt="Snake animation" />
 
 ###
-Profile Readme Generator
