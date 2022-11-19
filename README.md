@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Gleison Pires and I'm a Cloud and DevOps Analyst, from Compass.uol</h2>
+<h2 align="left">Hi 👋! My name is Gleison Pires and I'm a Cloud and DevOps Analyst, from Brasil</h2>
 
 ###
 
