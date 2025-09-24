@@ -1,5 +1,8 @@
 <h2 align="left">Hi 👋! I'm Gleison Pires and I'm a Cloud and DevOps Engineer, from Brazil</h2>
 
+<h4 align="left"> Hey, I am currently working on my projects using BitBucket and GitLab, so all repositories are private. </h4>
+
+
 ###
 
 <img align="right" height="325" src="https://media.giphy.com/media/TALQlzlQssoEvvUuNq/giphy.gif"  />
