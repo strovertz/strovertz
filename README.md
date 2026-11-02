@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gleisonpires/)
 [![AWS Builder](https://img.shields.io/badge/AWS_Builder-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://builder.aws.com/community/@strovertzz)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gleisonaps@hotmail.com)
-[![Portfolio](https://img.shields.io/badge/Website-Vice_City_Portfolio-00f3ff?style=for-the-badge&logo=firefox&logoColor=black)](https://gleisonpires.github.io)
+[![Portfolio](https://img.shields.io/badge/Website-Vice_City_Portfolio-00f3ff?style=for-the-badge&logo=firefox&logoColor=black)]([https://gleisonpires.github.io](https://github.com/strovertz/strovertz-page))
 
 </div>
 
