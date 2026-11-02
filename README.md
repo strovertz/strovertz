@@ -4,7 +4,7 @@
 ### Cloud Solutions Architect & DevSecOps Engineer | MSc Student @ USP (ICMC)
 
 <!-- SEU GIF ANIMADO AQUI -->
-<img src="./tux-avatar.gif" alt="Synthwave Tux Penguin Hacker" width="450" style="border-radius: 15px; border: 2px solid #ff007f; box-shadow: 0 0 20px #ff007f;" />
+<img src="./PixVerse_V6_Image_Text_540P_Cute_pixel_art_ani.gif" alt="Synthwave Tux Penguin Hacker" width="450" style="border-radius: 15px; border: 2px solid #ff007f; box-shadow: 0 0 20px #ff007f;" />
 
 <br/><br/>
 
